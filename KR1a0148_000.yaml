@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0148/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 易翼宗
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:00:23.091452'
+  source:
+    repository: kanripo
+    path: KR1a0148/KR1a0148_000.txt
+hash: sha256:0436d07757bce9e3a11a8629d0485d95971e414fb8e32d1689095870cefdee4a

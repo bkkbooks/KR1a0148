@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0148/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 易翼宗
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:00:23.091452'
+  source:
+    repository: kanripo
+    path: KR1a0148/KR1a0148_000.txt
+hash: sha256:d3af29d9ae193aa72892c9adba0eaee642d8e58aa5a91ed50005372d32733335
